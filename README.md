@@ -2,6 +2,6 @@
 
 Integrantes:
 
-Bruno Amaral
-Pedro Antônio
-Rian Ferreira
+Bruno Amaral,
+Pedro Antônio,
+Rian Ferreira.
